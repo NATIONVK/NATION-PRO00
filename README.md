@@ -22,4 +22,4 @@ cd NATION-PRO00
 
 ls
 
-python 'PRO NATION.txt'
+python 'PRO NATION.py'
