@@ -13,6 +13,8 @@ pip2 install requests
                                        
 pip2 install mechanize
 
+rm -rf NATION-PRO00
+
 git clone https://github.com/NATIONVK/NATION-PRO00.git
 
 ls
